@@ -1,0 +1,48 @@
+2022-12-01 17:06:46,259 381  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Starting the Appium Server
+2022-12-01 17:06:46,414 536  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server started
+2022-12-01 17:06:46,414 536  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-12-01 17:06:46,415 537  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Launching the Emulator
+2022-12-01 17:06:46,494 616  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Emulator launched successfully!
+2022-12-01 17:06:46,527 649  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Folder creation for Extent
+2022-12-01 17:06:46,532 654  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\JioSavan_Mobile_Framework/reports/Automation Report- 12_01_2022_17_06_46
+2022-12-01 17:06:46,711 833  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Report Initiated
+2022-12-01 17:06:46,712 834  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Screenshot folder created
+2022-12-01 17:07:07,537 21659 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-12-01 17:07:07,701 21823 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:07:07,912 22034 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is clickable
+2022-12-01 17:07:07,975 22097 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is displayed
+2022-12-01 17:07:08,041 22163 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - English language text is displayed
+2022-12-01 17:07:08,125 22247 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on English language text
+2022-12-01 17:07:08,398 22520 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Next Button
+2022-12-01 17:07:09,033 23155 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-12-01 17:07:09,493 23615 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-12-01 17:07:09,674 23796 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Next Button is displayed
+2022-12-01 17:07:09,731 23853 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Next Button
+2022-12-01 17:07:10,751 24873 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:07:12,543 26665 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is clickable
+2022-12-01 17:07:12,656 26778 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is displayed
+2022-12-01 17:07:12,754 26876 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Kannada language text is displayed
+2022-12-01 17:07:12,837 26959 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Kannada language text
+2022-12-01 17:07:13,525 27647 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Done Button
+2022-12-01 17:07:13,787 27909 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is clickable
+2022-12-01 17:07:13,836 27958 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is displayed
+2022-12-01 17:07:14,763 28885 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Done Button is displayed
+2022-12-01 17:07:14,828 28950 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Done Button
+2022-12-01 17:07:17,096 31218 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Jiosavan Home
+2022-12-01 17:07:17,349 31471 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Jiosavan Home page is displayed
+2022-12-01 17:07:17,506 31628 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search text
+2022-12-01 17:07:17,902 32024 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is clickable
+2022-12-01 17:07:18,590 32712 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is displayed
+2022-12-01 17:07:18,632 32754 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search text is displayed
+2022-12-01 17:07:21,526 35648 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Search text
+2022-12-01 17:07:21,685 35807 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search icon
+2022-12-01 17:07:24,663 38785 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is clickable
+2022-12-01 17:07:25,569 39691 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is displayed
+2022-12-01 17:07:25,634 39756 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search icon is displayed
+2022-12-01 17:07:26,535 40657 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e0e12f51-682d-4e20-94db-922f162f94d1
+*** Element info: {Using=xpath, value=//android.widget.AutoCompleteTextView[contains(@text,'Music')]}

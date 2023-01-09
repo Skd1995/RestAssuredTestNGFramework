@@ -1,0 +1,45 @@
+2022-11-30 15:37:22,373 400  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-30 15:37:22,529 556  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-30 15:37:22,530 557  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-30 15:37:22,531 558  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Launching the Emulator
+2022-11-30 15:37:22,618 645  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-30 15:37:22,644 671  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-30 15:37:22,651 678  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Flipkart_Mobile_Framework\Flipkart_Mobile_Framework/reports/Automation Report- 11_30_2022_15_37_22
+2022-11-30 15:37:22,845 872  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-30 15:37:22,846 873  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-30 15:37:41,905 19932 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-30 15:37:42,192 20219 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-30 15:37:42,610 20637 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-30 15:37:42,660 20687 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-30 15:37:42,721 20748 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-30 15:37:42,722 20749 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-30 15:37:44,539 22566 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-30 15:37:44,873 22900 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-30 15:37:45,952 23979 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-30 15:37:45,953 23980 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-30 15:37:49,605 27632 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-30 15:37:49,774 27801 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-30 15:37:49,876 27903 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-30 15:37:50,960 28987 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-30 15:37:50,961 28988 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is clickable
+2022-11-30 15:37:51,663 29690 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is displayed
+2022-11-30 15:37:51,801 29828 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Crossmark Button is displayed
+2022-11-30 15:37:51,954 29981 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Crossmark Button
+2022-11-30 15:37:55,531 33558 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-30 15:37:56,523 34550 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Categories tab
+2022-11-30 15:37:59,059 37086 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Categories tab is clickable
+2022-11-30 15:37:59,125 37152 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Categories tab is displayed
+2022-11-30 15:37:59,178 37205 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Categories tab is displayed
+2022-11-30 15:37:59,287 37314 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Categories tab
+2022-11-30 15:37:59,288 37315 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Search icon
+2022-11-30 15:38:02,301 40328 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search icon is clickable
+2022-11-30 15:38:02,858 40885 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search icon is displayed
+2022-11-30 15:38:04,071 42098 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Search icon is displayed
+2022-11-30 15:38:04,297 42324 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Search icon
+2022-11-30 15:38:11,820 49847 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Cookker is entered into Search for products text field
+2022-11-30 15:38:13,703 51730 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of pressure cooker tab
+2022-11-30 15:38:14,047 52074 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate pressure cooker tab is clickable
+2022-11-30 15:38:14,125 52152 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate pressure cooker tab is displayed
+2022-11-30 15:38:14,169 52196 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - pressure cooker tab is displayed
+2022-11-30 15:38:14,238 52265 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on pressure cooker tab
+2022-11-30 15:38:19,311 57338 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Can't locate an element by this strategy: By.id: com.flipkart.android:id/not_now_button

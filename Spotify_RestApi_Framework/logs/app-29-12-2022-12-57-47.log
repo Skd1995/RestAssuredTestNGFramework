@@ -1,0 +1,16 @@
+2022-12-29 12:57:47,767 173  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-29 12:57:47,776 182  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Trello_Api_Framework\Trello_Api_Framework/reports/Automation Report- 12_29_2022_12_57_47
+2022-12-29 12:57:47,846 252  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-29 12:57:47,846 252  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2022-12-29 12:57:50,302 2708 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-29 12:57:50,308 2714 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-29 12:57:50,432 2838 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-29 12:57:50,474 2880 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000
+2022-12-29 12:57:51,949 4355 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-29 12:57:51,950 4356 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-29 12:57:51,953 4359 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-29 12:57:51,954 4360 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000
+2022-12-29 12:57:52,950 5356 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-29 12:57:52,951 5357 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-29 12:57:52,956 5362 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-29 12:57:52,957 5363 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000

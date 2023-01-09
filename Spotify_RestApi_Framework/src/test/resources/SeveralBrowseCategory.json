@@ -1,0 +1,926 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "categories": {
+      "type": "object",
+      "properties": {
+        "href": {
+          "type": "string"
+        },
+        "items": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "integer"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "integer"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "integer"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                },
+                "icons": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "height": {
+                          "type": "null"
+                        },
+                        "url": {
+                          "type": "string"
+                        },
+                        "width": {
+                          "type": "null"
+                        }
+                      },
+                      "required": [
+                        "height",
+                        "url",
+                        "width"
+                      ]
+                    }
+                  ]
+                },
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "href",
+                "icons",
+                "id",
+                "name"
+              ]
+            }
+          ]
+        },
+        "limit": {
+          "type": "integer"
+        },
+        "next": {
+          "type": "string"
+        },
+        "offset": {
+          "type": "integer"
+        },
+        "previous": {
+          "type": "null"
+        },
+        "total": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "href",
+        "items",
+        "limit",
+        "next",
+        "offset",
+        "previous",
+        "total"
+      ]
+    }
+  },
+  "required": [
+    "categories"
+  ]
+}

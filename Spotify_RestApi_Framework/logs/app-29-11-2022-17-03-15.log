@@ -1,0 +1,28 @@
+2022-11-29 17:03:15,402 427  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-29 17:03:18,495 3520 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-29 17:03:18,496 3521 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-29 17:03:18,502 3527 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-29 17:03:18,509 3534 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Flipkart_Mobile_Framework/reports/Automation Report- 11_29_2022_17_03_18
+2022-11-29 17:03:18,733 3758 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-29 17:03:18,735 3760 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-29 17:04:36,755 81780 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-29 17:04:47,151 92176 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-29 17:05:47,700 152725 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-29 17:06:28,010 193035 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-29 17:06:58,349 223374 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-29 17:06:58,352 223377 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-29 17:08:29,412 314437 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-29 17:09:30,110 375135 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-29 17:10:10,624 415649 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-29 17:10:10,625 415650 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-29 17:11:41,426 506451 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-29 17:12:42,025 567050 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-29 17:13:22,523 607548 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-29 17:13:32,902 617927 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: java.lang.IllegalStateException: Unable to evaluate expression. See cause
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: Appium, deviceName: Redmi Note 7 Pro, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: 6c9f6803, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 6c9f6803, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5550350a-16ef-4944-8053-c2eec90c79d9
+*** Element info: {Using=xpath, value=//android.widget.TextView[contains(@text='Log in')]}
+2022-11-29 17:13:35,086 620111 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium server stopped

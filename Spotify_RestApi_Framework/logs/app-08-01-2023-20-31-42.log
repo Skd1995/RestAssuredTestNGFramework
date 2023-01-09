@@ -1,0 +1,11 @@
+2023-01-08 20:31:43,672 1625 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 20:31:43,687 1640 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_20_31_43
+2023-01-08 20:31:43,808 1701 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 20:31:43,822 1715 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_20_31_43
+2023-01-08 20:31:43,914 1867 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 20:31:43,914 1867 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-08 20:31:43,982 1875 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 20:31:49,923 7816 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json
+2023-01-08 20:31:49,927 7880 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json
+2023-01-08 20:31:49,930 7883 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 20:31:49,936 7829 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

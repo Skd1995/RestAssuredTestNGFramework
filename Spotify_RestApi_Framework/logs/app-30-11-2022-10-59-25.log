@@ -1,0 +1,56 @@
+2022-11-30 10:59:26,408 800  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-30 10:59:29,624 4016 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-30 10:59:29,626 4018 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-30 10:59:29,634 4026 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-30 10:59:29,639 4031 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Flipkart_Mobile_Framework\Flipkart_Mobile_Framework/reports/Automation Report- 11_30_2022_10_59_29
+2022-11-30 10:59:29,857 4249 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-30 10:59:29,858 4250 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-30 10:59:51,703 26095 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-30 10:59:52,407 26799 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-30 10:59:53,753 28145 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-30 10:59:53,804 28196 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-30 10:59:55,168 29560 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-30 10:59:55,169 29561 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-30 10:59:56,165 30557 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-30 10:59:56,488 30880 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-30 10:59:57,206 31598 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-30 10:59:57,207 31599 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-30 10:59:59,556 33948 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-30 10:59:59,740 34132 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-30 10:59:59,881 34273 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-30 11:00:01,862 36254 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-30 11:00:01,863 36255 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is clickable
+2022-11-30 11:00:02,162 36554 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is displayed
+2022-11-30 11:00:02,371 36763 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Crossmark Button is displayed
+2022-11-30 11:00:02,521 36913 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Crossmark Button
+2022-11-30 11:00:06,786 41178 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-30 11:00:06,787 41179 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search for products text field is clickable
+2022-11-30 11:00:09,349 43741 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search for products text field is displayed
+2022-11-30 11:00:10,837 45229 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Search for products text field is displayed
+2022-11-30 11:00:12,415 46807 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Search for products text field
+2022-11-30 11:00:12,725 47117 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Keyboard is hidden
+2022-11-30 11:00:12,726 47118 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:18,025 52417 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:00:20,373 54765 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:26,239 60631 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:00:28,600 62992 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:34,323 68715 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:00:36,660 71052 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:42,390 76782 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:00:44,726 79118 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:50,350 84742 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:00:52,697 87089 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:00:57,791 92183 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is not visible
+2022-11-30 11:01:00,127 94519 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Checking for the visibility of element Laptop text
+2022-11-30 11:01:02,499 96891 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Laptop text is clickable
+2022-11-30 11:01:03,818 98210 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Laptop text is displayed
+2022-11-30 11:01:05,122 99514 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Laptop text is displayed
+2022-11-30 11:01:05,604 99996 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Laptop text
+2022-11-30 11:01:09,206 103598 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - The element 'By.id: com.flipkart.android:id/title_action_bar' is not linked to the same object in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: e245e59e-4b67-4c7b-becd-81786fa8561e
+2022-11-30 11:01:12,660 107052 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium server stopped

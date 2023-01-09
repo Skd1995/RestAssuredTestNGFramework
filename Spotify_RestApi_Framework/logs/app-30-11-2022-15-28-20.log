@@ -1,0 +1,56 @@
+2022-11-30 15:28:20,405 371  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-30 15:28:20,557 523  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-30 15:28:20,558 524  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-30 15:28:20,558 524  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Launching the Emulator
+2022-11-30 15:28:20,648 614  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-30 15:28:20,656 622  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-30 15:28:20,661 627  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Flipkart_Mobile_Framework\Flipkart_Mobile_Framework/reports/Automation Report- 11_30_2022_15_28_20
+2022-11-30 15:28:20,883 849  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-30 15:28:20,884 850  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-30 15:28:41,079 21045 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-30 15:28:41,912 21878 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-30 15:28:41,974 21940 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-30 15:28:42,025 21991 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-30 15:28:42,109 22075 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-30 15:28:42,110 22076 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-30 15:28:43,953 23919 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-30 15:28:45,061 25027 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-30 15:28:45,280 25246 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-30 15:28:45,282 25248 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-30 15:28:53,924 33890 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-30 15:28:54,076 34042 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-30 15:28:54,193 34159 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-30 15:28:55,244 35210 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-30 15:28:55,244 35210 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is clickable
+2022-11-30 15:28:55,453 35419 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is displayed
+2022-11-30 15:28:55,637 35603 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Crossmark Button is displayed
+2022-11-30 15:28:55,774 35740 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Crossmark Button
+2022-11-30 15:29:00,867 40833 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-30 15:29:01,272 41238 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Account tab
+2022-11-30 15:29:04,790 44756 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Account tab is clickable
+2022-11-30 15:29:05,854 45820 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Account tab is displayed
+2022-11-30 15:29:05,914 45880 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Account tab is displayed
+2022-11-30 15:29:06,031 45997 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Account tab
+2022-11-30 15:29:12,509 52475 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Log In tab
+2022-11-30 15:29:12,856 52822 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Log In tab is clickable
+2022-11-30 15:29:12,936 52902 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Log In tab is displayed
+2022-11-30 15:29:13,011 52977 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Log In tab is displayed
+2022-11-30 15:29:13,085 53051 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Log In tab
+2022-11-30 15:29:14,223 54189 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of 091082 19704 tab
+2022-11-30 15:29:14,930 54896 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate 091082 19704 tab is clickable
+2022-11-30 15:29:15,036 55002 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate 091082 19704 tab is displayed
+2022-11-30 15:29:15,084 55050 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - 091082 19704 tab is displayed
+2022-11-30 15:29:15,930 55896 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on 091082 19704 tab
+2022-11-30 15:29:16,071 56037 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Continue tab
+2022-11-30 15:29:16,278 56244 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue tab is clickable
+2022-11-30 15:29:16,362 56328 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue tab is displayed
+2022-11-30 15:29:16,402 56368 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue tab is displayed
+2022-11-30 15:29:16,474 56440 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue tab
+2022-11-30 15:29:25,992 65958 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: com.flipkart.android.activi..., appPackage: com.flipkart.android, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: b41bef6d-9d11-4c69-bdd1-b011fa70818a
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Orders']}

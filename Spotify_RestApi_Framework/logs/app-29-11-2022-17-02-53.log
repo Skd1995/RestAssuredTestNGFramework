@@ -1,0 +1,9 @@
+2022-11-29 17:02:54,041 614  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-29 17:02:54,372 945  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-29 17:02:54,372 945  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-29 17:02:54,379 952  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-29 17:02:54,385 958  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Flipkart_Mobile_Framework/reports/Automation Report- 11_29_2022_17_02_54
+2022-11-29 17:02:54,649 1222 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-29 17:02:54,650 1223 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-29 17:02:56,640 3213 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Unable to close the driver
+2022-11-29 17:02:57,639 4212 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium server stopped

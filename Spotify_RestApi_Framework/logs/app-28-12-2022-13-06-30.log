@@ -1,0 +1,5 @@
+2022-12-28 13:06:30,616 369  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-28 13:06:30,638 391  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Trello_Api_Framework/reports/Automation Report- 12_28_2022_13_06_30
+2022-12-28 13:06:30,778 531  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-28 13:06:30,779 532  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2022-12-28 13:06:32,055 1808 [main] ERROR com.trello.baseutil.BaseTest - Unable to get the details

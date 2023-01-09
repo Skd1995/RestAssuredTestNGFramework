@@ -1,0 +1,31 @@
+2022-12-01 12:07:45,262 190  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Starting the Appium Server
+2022-12-01 12:07:45,330 258  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server started
+2022-12-01 12:07:45,330 258  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-12-01 12:07:45,330 258  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Launching the Emulator
+2022-12-01 12:07:45,368 296  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Emulator launched successfully!
+2022-12-01 12:07:45,371 299  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Folder creation for Extent
+2022-12-01 12:07:45,373 301  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\JioSavan_Mobile_Framework/reports/Automation Report- 12_01_2022_12_07_45
+2022-12-01 12:07:45,453 381  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Report Initiated
+2022-12-01 12:07:45,453 381  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Screenshot folder created
+2022-12-01 12:08:01,438 16366 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-12-01 12:08:01,566 16494 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 12:08:01,715 16643 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is clickable
+2022-12-01 12:08:01,764 16692 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is displayed
+2022-12-01 12:08:01,797 16725 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - English language text is displayed
+2022-12-01 12:08:01,846 16774 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on English language text
+2022-12-01 12:08:02,005 16933 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Next Button
+2022-12-01 12:08:02,725 17653 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-12-01 12:08:04,404 19332 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-12-01 12:08:05,036 19964 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Next Button is displayed
+2022-12-01 12:08:05,106 20034 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Next Button
+2022-12-01 12:08:05,945 20873 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 12:08:06,100 21028 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is clickable
+2022-12-01 12:08:07,380 22308 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - Kannada language text is not clickable
+2022-12-01 12:08:07,381 22309 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - Unable to click on Kannada language text
+2022-12-01 12:08:07,409 22337 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - The element 'By.xpath: //android.widget.TextView[@text='Kannada']' does not exist in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 37f3ffdb-17b6-41e2-9cc6-bdb4013ea60c

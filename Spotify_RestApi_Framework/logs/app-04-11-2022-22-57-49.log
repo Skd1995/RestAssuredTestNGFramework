@@ -1,0 +1,29 @@
+2022-11-04 22:57:50,253 579  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-04 22:57:50,483 809  [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-04 22:57:50,484 810  [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-04 22:57:50,484 810  [main] INFO  com.trello.android.baseutil.BaseTest - Launching the Emulator
+2022-11-04 22:57:55,593 5919 [main] INFO  com.trello.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-04 22:57:55,596 5922 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-04 22:57:55,602 5928 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 11_04_2022_22_57_55
+2022-11-04 22:57:55,789 6115 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-04 22:57:55,791 6117 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-04 22:58:16,254 26580 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-04 22:58:17,015 27341 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-04 22:58:17,277 27603 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-04 22:58:17,491 27817 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-04 22:58:17,502 27828 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Sign in with email Button is clickable
+2022-11-04 22:58:19,214 29540 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Sign in with email Button is displayed
+2022-11-04 22:58:19,393 29719 [main] INFO  com.trello.android.baseutil.BaseTest - Sign in with email Button is displayed
+2022-11-04 22:58:19,505 29831 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Sign in with email Button
+2022-11-04 22:58:19,508 29834 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Browser icon is clickable
+2022-11-04 22:58:23,538 33864 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Browser icon is displayed
+2022-11-04 22:58:23,774 34100 [main] INFO  com.trello.android.baseutil.BaseTest - Browser icon is displayed
+2022-11-04 22:58:23,914 34240 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Browser icon
+2022-11-04 22:58:29,013 39339 [main] ERROR com.trello.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.43.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: Nexus5, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 28, deviceManufacturer: Google, deviceModel: AOSP on IA Emulator, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8084b398-3783-4fb1-abba-1d0b387174d1
+*** Element info: {Using=xpath, value=//android.view.View[contains(@text,'abhishek')]}

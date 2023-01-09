@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3360" started-at="2023-01-08T21:26:40 IST" finished-at="2023-01-08T21:26:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3360" started-at="2023-01-08T21:26:40 IST" finished-at="2023-01-08T21:26:43 IST">
+      <class name="com.spotify.Albums.GetAlbum">
+        <test-method status="PASS" signature="createFiles()[pri:0, instance:com.spotify.Albums.GetAlbum@48b67364]" name="createFiles" is-config="true" duration-ms="101" started-at="2023-01-08T21:26:40 IST" finished-at="2023-01-08T21:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFiles -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.spotify.Albums.GetAlbum@48b67364]" name="launchApp" is-config="true" duration-ms="3" started-at="2023-01-08T21:26:40 IST" finished-at="2023-01-08T21:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="setExtentReport(java.lang.reflect.Method)[pri:0, instance:com.spotify.Albums.GetAlbum@48b67364]" name="setExtentReport" is-config="true" duration-ms="449" started-at="2023-01-08T21:26:40 IST" finished-at="2023-01-08T21:26:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.Albums.GetAlbum.test(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method status="PASS" signature="test(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.spotify.Albums.GetAlbum@48b67364]" name="test" duration-ms="2683" started-at="2023-01-08T21:26:41 IST" description="get album" data-provider="data1" finished-at="2023-01-08T21:26:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[get album]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[41DFtugomlAL2wB8SgjIyw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.spotify.Albums.GetAlbum -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

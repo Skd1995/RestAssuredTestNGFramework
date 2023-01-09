@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" name="Trello">
+  <listeners>
+    <listener class-name="com.trello.listener.TestListners"/>
+  </listeners>
+  <test thread-count="1" name="API_Test">
+    <classes>
+      <class name="com.trello.endtoendscripts.CreateABoardUpdateDelete"/>
+    </classes>
+  </test> <!-- PROJECT_Test1 -->
+</suite> <!-- RestAssured -->

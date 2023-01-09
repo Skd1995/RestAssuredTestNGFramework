@@ -1,0 +1,19 @@
+2023-01-02 16:06:02,821 221  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2023-01-02 16:06:02,826 226  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Manju\Trello_ApiRestAssured_Framework\Trello_ApiRestAssured_Framework/reports/Automation Report- 01_02_2023_16_06_02
+2023-01-02 16:06:02,903 303  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2023-01-02 16:06:02,903 303  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2023-01-02 16:06:06,438 3838 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-02 16:06:06,460 3860 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-02 16:06:06,571 3971 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2023-01-02 16:06:06,575 3975 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2023-01-02 16:06:06,594 3994 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2023-01-02 16:06:08,034 5434 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-02 16:06:08,036 5436 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-02 16:06:08,043 5443 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2023-01-02 16:06:08,044 5444 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2023-01-02 16:06:08,046 5446 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2023-01-02 16:06:10,331 7731 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-02 16:06:10,332 7732 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-02 16:06:10,337 7737 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2023-01-02 16:06:10,338 7738 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2023-01-02 16:06:10,340 7740 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000

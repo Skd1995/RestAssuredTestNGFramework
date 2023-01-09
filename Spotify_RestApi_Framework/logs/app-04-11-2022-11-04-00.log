@@ -1,0 +1,40 @@
+2022-11-04 11:04:00,757 436  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-04 11:04:03,915 3594 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-04 11:04:03,916 3595 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-04 11:04:03,922 3601 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-04 11:04:03,928 3607 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 11_04_2022_11_04_03
+2022-11-04 11:04:04,129 3808 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-04 11:04:04,131 3810 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-04 11:04:20,068 19747 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-04 11:05:51,093 110772 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-04 11:06:51,818 171497 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-04 11:07:32,370 212049 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-04 11:07:32,383 212062 [main] INFO  com.trello.android.baseutil.BaseTest - Wait for visibility of Email text field
+2022-11-04 11:10:26,439 386118 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked and typed abhishek.m04@testyantra.com in Email text field
+2022-11-04 11:10:26,439 386118 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-11-04 11:11:57,416 477095 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-11-04 11:12:57,981 537660 [main] INFO  com.trello.android.baseutil.BaseTest - Next Button is displayed
+2022-11-04 11:13:38,393 578072 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Next Button
+2022-11-04 11:13:38,393 578072 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-04 11:15:20,656 680335 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-04 11:16:21,525 741204 [main] INFO  com.trello.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-04 11:17:02,265 781944 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-04 11:18:02,892 842571 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-04 11:18:02,892 842571 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-11-04 11:19:33,906 933585 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed
+2022-11-04 11:20:34,525 994204 [main] INFO  com.trello.android.baseutil.BaseTest - Plus Icon is displayed
+2022-11-04 11:21:15,061 1034740 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Plus Icon
+2022-11-04 11:22:15,668 1095347 [main] INFO  com.trello.android.baseutil.BaseTest - Board Icon is displayed
+2022-11-04 11:22:15,670 1095349 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is clickable
+2022-11-04 11:23:46,639 1186318 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is displayed
+2022-11-04 11:24:47,302 1246981 [main] INFO  com.trello.android.baseutil.BaseTest - Create Board Icon is displayed
+2022-11-04 11:25:27,790 1287469 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Create Board Icon
+2022-11-04 11:26:28,505 1348184 [main] INFO  com.trello.android.baseutil.BaseTest -  Create Board Page is Displayed
+2022-11-04 11:29:40,436 1540115 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-11-04 11:30:41,127 1600806 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text Doing is matching with the Doing text in the application 
+2022-11-04 11:30:41,127 1600806 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-11-04 11:30:41,128 1600807 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown is clickable
+2022-11-04 11:31:12,699 1632378 [main] ERROR com.trello.android.baseutil.BaseTest - Workspace dropdown is not clickable
+2022-11-04 11:31:12,700 1632379 [main] ERROR com.trello.android.baseutil.BaseTest - Unable to click on Workspace dropdown
+2022-11-04 11:31:44,100 1663779 [main] ERROR com.trello.android.baseutil.BaseTest - Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //android.widget.Spinner[@resource-id='com.trello:id/org_spinner']}) (tried for 30 second(s) with 500 milliseconds interval)
+2022-11-04 11:31:46,402 1666081 [main] INFO  com.trello.android.baseutil.BaseTest - Appium server stopped

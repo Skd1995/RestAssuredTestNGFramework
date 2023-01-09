@@ -1,0 +1,26 @@
+2022-11-07 10:10:09,632 1180 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-07 10:10:16,363 7911 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-07 10:10:16,365 7913 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-07 10:10:16,377 7925 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-07 10:10:16,385 7933 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Trello_Mobile_Framework/reports/Automation Report- 11_07_2022_10_10_16
+2022-11-07 10:10:16,792 8340 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-07 10:10:16,794 8342 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-07 10:11:40,604 92152 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-07 10:11:40,605 92153 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-07 10:12:48,866 160414 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-07 10:12:49,104 160652 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-07 10:12:49,323 160871 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-07 10:12:49,324 160872 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Wait for visibility of Email text field
+2022-11-07 10:13:02,843 174391 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked and typed abhishek.m04@testyantra.com in Email text field
+2022-11-07 10:13:02,845 174393 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-11-07 10:14:33,887 265435 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-11-07 10:15:27,107 318655 [main] ERROR com.tyss.trello.android.baseutil.BaseTest - Next Button is not displayed
+2022-11-07 10:15:27,108 318656 [main] ERROR com.tyss.trello.android.baseutil.BaseTest - Unable to click on Next Button
+2022-11-07 10:15:27,131 318679 [main] ERROR com.tyss.trello.android.baseutil.BaseTest - org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: 'POST /element' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: home.HomeActivity, appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: home.HomeActivity, appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: Redmi Note 7 Pro, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: 6c9f6803, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 6c9f6803, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 01a021e0-bcec-4c55-958e-3b710dd21ff1
+*** Element info: {Using=id, value=com.trello:id/authenticate}
+2022-11-07 10:15:48,759 340307 [main] ERROR com.tyss.trello.android.baseutil.BaseTest - Unable to close the driver

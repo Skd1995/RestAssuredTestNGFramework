@@ -1,0 +1,5 @@
+2022-12-27 16:11:41,986 355  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 16:11:42,008 377  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_16_11_42
+2022-12-27 16:11:42,138 507  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 16:11:42,138 507  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 16:11:43,213 1582 [main] ERROR com.reqres.baseutil.BaseTest - Unable to get the details

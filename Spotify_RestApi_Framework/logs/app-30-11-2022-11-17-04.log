@@ -1,0 +1,41 @@
+2022-11-30 11:17:04,684 391  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-30 11:17:04,842 549  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-30 11:17:04,843 550  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-30 11:17:04,853 560  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-30 11:17:04,858 565  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Flipkart_Mobile_Framework\Flipkart_Mobile_Framework/reports/Automation Report- 11_30_2022_11_17_04
+2022-11-30 11:17:05,062 769  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-30 11:17:05,063 770  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-30 11:17:25,143 20850 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-30 11:17:25,493 21200 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-30 11:17:27,419 23126 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-30 11:17:27,476 23183 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-30 11:17:28,471 24178 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-30 11:17:28,472 24179 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-30 11:17:28,920 24627 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-30 11:17:29,613 25320 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-30 11:17:32,412 28119 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-30 11:17:32,413 28120 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-30 11:17:33,349 29056 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-30 11:17:33,528 29235 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-30 11:17:33,656 29363 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-30 11:17:34,760 30467 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-30 11:17:34,762 30469 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is clickable
+2022-11-30 11:17:34,971 30678 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is displayed
+2022-11-30 11:17:35,133 30840 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Crossmark Button is displayed
+2022-11-30 11:17:35,278 30985 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Crossmark Button
+2022-11-30 11:17:41,929 37636 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-30 11:17:41,929 37636 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search for products text field is clickable
+2022-11-30 11:17:45,463 41170 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Search for products text field is displayed
+2022-11-30 11:17:46,042 41749 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Search for products text field is displayed
+2022-11-30 11:17:47,573 43280 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Search for products text field
+2022-11-30 11:17:54,530 50237 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - samsung galaxy s20 fe is entered into Search for products text field
+2022-11-30 11:17:57,490 53197 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Mobile name text
+2022-11-30 11:17:57,777 53484 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Mobile name text is clickable
+2022-11-30 11:17:57,850 53557 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Mobile name text is displayed
+2022-11-30 11:17:57,907 53614 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Mobile name text is displayed
+2022-11-30 11:17:57,982 53689 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Mobile name text
+2022-11-30 11:17:57,983 53690 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Not now Button is clickable
+2022-11-30 11:18:28,613 84320 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Not now Button is not clickable
+2022-11-30 11:18:28,614 84321 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Unable to click on Not now Button
+2022-11-30 11:19:03,784 119491 [main] ERROR com.tyss.flipkart.android.baseutil.BaseTest - Expected condition failed: waiting for element to be clickable: Located by By.id: com.flipkart.android:id/not_now_button (tried for 30 second(s) with 500 milliseconds interval)
+2022-11-30 11:19:06,770 122477 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium server stopped

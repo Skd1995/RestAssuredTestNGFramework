@@ -1,0 +1,4 @@
+2022-12-29 17:01:09,630 461  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-29 17:01:09,645 476  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Trello_Api_Framework\Trello_Api_Framework/reports/Automation Report- 12_29_2022_17_01_09
+2022-12-29 17:01:09,846 677  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-29 17:01:09,847 678  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created

@@ -1,0 +1,7 @@
+2022-10-22 01:16:02,124 445  [main] INFO  com.utec.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-22 01:16:02,261 582  [main] INFO  com.utec.android.baseutil.BaseTest - Appium Server started
+2022-10-22 01:16:02,261 582  [main] INFO  com.utec.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-22 01:16:02,271 592  [main] INFO  com.utec.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-22 01:16:02,277 598  [main] INFO  com.utec.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\eclipse-workspace\Mobile_Framework/reports/Automation Report- 10_22_2022_01_16_02
+2022-10-22 01:16:02,501 822  [main] INFO  com.utec.android.baseutil.BaseTest - Report Initiated
+2022-10-22 01:16:02,502 823  [main] INFO  com.utec.android.baseutil.BaseTest - Screenshot folder created

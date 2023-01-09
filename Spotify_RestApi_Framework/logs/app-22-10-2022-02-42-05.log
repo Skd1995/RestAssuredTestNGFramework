@@ -1,0 +1,10 @@
+2022-10-22 02:42:05,255 403  [main] INFO  com.utec.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-22 02:42:05,321 469  [main] ERROR com.utec.android.baseutil.BaseTest - Unable to set the capabilities
+2022-10-22 02:42:05,321 469  [main] INFO  com.utec.android.baseutil.BaseTest - Appium Server started
+2022-10-22 02:42:05,321 469  [main] INFO  com.utec.android.baseutil.BaseTest - Appium Server URL: null
+2022-10-22 02:42:05,326 474  [main] INFO  com.utec.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-22 02:42:05,332 480  [main] INFO  com.utec.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\eclipse-workspace\Mobile_Framework/reports/Automation Report- 10_22_2022_02_42_05
+2022-10-22 02:42:05,523 671  [main] INFO  com.utec.android.baseutil.BaseTest - Report Initiated
+2022-10-22 02:42:05,524 672  [main] INFO  com.utec.android.baseutil.BaseTest - Screenshot folder created
+2022-10-22 02:42:05,675 823  [main] ERROR com.utec.android.baseutil.BaseTest - Unable to close the driver
+2022-10-22 02:42:06,209 1357 [main] INFO  com.utec.android.baseutil.BaseTest - Appium server stopped

@@ -1,0 +1,112 @@
+2022-10-23 19:18:05,327 305  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-23 19:18:07,114 2092 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-23 19:18:07,115 2093 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-23 19:18:07,121 2099 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-23 19:18:07,124 2102 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_23_2022_19_18_07
+2022-10-23 19:18:07,258 2236 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-23 19:18:07,259 2237 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-23 19:18:21,087 16065 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-23 19:19:52,441 107419 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-23 19:20:53,169 168147 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-23 19:21:33,787 208765 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-23 19:21:44,127 219105 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-23 19:22:44,666 279644 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-23 19:23:25,063 320041 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-23 19:23:55,396 350374 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-23 19:23:56,869 351847 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-10-23 19:23:56,869 351847 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Keep up the Great work tab is clickable
+2022-10-23 19:25:28,481 443459 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Keep up the Great work tab is displayed
+2022-10-23 19:26:29,246 504224 [main] INFO  com.trello.android.baseutil.BaseTest - Keep up the Great work tab is displayed
+2022-10-23 19:27:09,740 544718 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Keep up the Great work tab
+2022-10-23 19:27:09,741 544719 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-10-23 19:28:40,816 635794 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed
+2022-10-23 19:29:41,520 696498 [main] INFO  com.trello.android.baseutil.BaseTest - Plus Icon is displayed
+2022-10-23 19:30:21,909 736887 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Plus Icon
+2022-10-23 19:31:22,600 797578 [main] INFO  com.trello.android.baseutil.BaseTest - Board Icon is displayed
+2022-10-23 19:31:22,601 797579 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is clickable
+2022-10-23 19:32:53,692 888670 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is displayed
+2022-10-23 19:33:54,392 949370 [main] INFO  com.trello.android.baseutil.BaseTest - Create Board Icon is displayed
+2022-10-23 19:34:34,896 989874 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Create Board Icon
+2022-10-23 19:35:35,604 1050582 [main] INFO  com.trello.android.baseutil.BaseTest -  Create Board Page is Displayed
+2022-10-23 19:38:47,536 1242514 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-10-23 19:39:48,101 1303079 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text Doing is matching with the Doing text in the application 
+2022-10-23 19:39:48,102 1303080 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-10-23 19:39:48,102 1303080 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown is clickable
+2022-10-23 19:41:19,118 1394096 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown is displayed
+2022-10-23 19:42:19,869 1454847 [main] INFO  com.trello.android.baseutil.BaseTest - Workspace dropdown is displayed
+2022-10-23 19:43:00,272 1495250 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Workspace dropdown
+2022-10-23 19:43:10,463 1505441 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown option is clickable
+2022-10-23 19:44:10,870 1565848 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown option is displayed
+2022-10-23 19:44:51,149 1606127 [main] INFO  com.trello.android.baseutil.BaseTest - Workspace dropdown option is displayed
+2022-10-23 19:45:21,373 1636351 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Workspace dropdown option
+2022-10-23 19:45:21,374 1636352 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown is clickable
+2022-10-23 19:46:52,382 1727360 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown is displayed
+2022-10-23 19:47:52,967 1787945 [main] INFO  com.trello.android.baseutil.BaseTest - Visibility dropdown is displayed
+2022-10-23 19:48:33,421 1828399 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Visibility dropdown
+2022-10-23 19:48:43,569 1838547 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown option is clickable
+2022-10-23 19:49:43,981 1898959 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown option is displayed
+2022-10-23 19:50:24,249 1939227 [main] INFO  com.trello.android.baseutil.BaseTest - Visibility dropdown option is displayed
+2022-10-23 19:50:54,579 1969557 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Visibility dropdown option
+2022-10-23 19:50:54,580 1969558 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Done Icon is clickable
+2022-10-23 19:52:25,679 2060657 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Done Icon is displayed
+2022-10-23 19:53:26,244 2121222 [main] INFO  com.trello.android.baseutil.BaseTest - Done Icon is displayed
+2022-10-23 19:54:06,705 2161683 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Done Icon
+2022-10-23 19:54:57,154 2212132 [main] INFO  com.trello.android.baseutil.BaseTest - Board is created Successfully
+2022-10-23 19:54:57,155 2212133 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add list button is clickable
+2022-10-23 19:56:28,080 2303058 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add list button is displayed
+2022-10-23 19:57:28,580 2363558 [main] INFO  com.trello.android.baseutil.BaseTest - Add list button is displayed
+2022-10-23 19:58:08,986 2403964 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Add list button
+2022-10-23 19:59:09,599 2464577 [main] INFO  com.trello.android.baseutil.BaseTest - List name text field is displayed
+2022-10-23 20:02:21,507 2656485 [main] INFO  com.trello.android.baseutil.BaseTest - Testing is entered into List name text field
+2022-10-23 20:03:22,032 2717010 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text Testing is matching with the Testing text in the application 
+2022-10-23 20:03:22,034 2717012 [main] INFO  com.trello.android.baseutil.BaseTest - Testing is entered into List name text field
+2022-10-23 20:03:36,438 2731416 [main] INFO  com.trello.android.baseutil.BaseTest - Created list is displayed
+2022-10-23 20:03:36,439 2731417 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is clickable
+2022-10-23 20:03:36,681 2731659 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is displayed
+2022-10-23 20:03:36,830 2731808 [main] INFO  com.trello.android.baseutil.BaseTest - Confirm button is displayed
+2022-10-23 20:03:36,995 2731973 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Confirm button
+2022-10-23 20:03:36,996 2731974 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add Card button is clickable
+2022-10-23 20:03:37,751 2732729 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add Card button is displayed
+2022-10-23 20:03:37,929 2732907 [main] INFO  com.trello.android.baseutil.BaseTest - Add Card button is displayed
+2022-10-23 20:03:38,067 2733045 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Add Card button
+2022-10-23 20:04:39,214 2794192 [main] INFO  com.trello.android.baseutil.BaseTest - Card name text field is displayed
+2022-10-23 20:07:51,117 2986095 [main] INFO  com.trello.android.baseutil.BaseTest - testing1 is entered into Card name text field
+2022-10-23 20:08:51,679 3046657 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text testing1 is matching with the testing1 text in the application 
+2022-10-23 20:08:51,680 3046658 [main] INFO  com.trello.android.baseutil.BaseTest - testing1 is entered into Card name text field
+2022-10-23 20:08:51,681 3046659 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is clickable
+2022-10-23 20:10:22,395 3137373 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is displayed
+2022-10-23 20:11:23,001 3197979 [main] INFO  com.trello.android.baseutil.BaseTest - Confirm button is displayed
+2022-10-23 20:12:03,533 3238511 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Confirm button
+2022-10-23 20:12:03,534 3238512 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Cancel button is clickable
+2022-10-23 20:13:34,457 3329435 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Cancel button is displayed
+2022-10-23 20:14:34,975 3389953 [main] INFO  com.trello.android.baseutil.BaseTest - Cancel button is displayed
+2022-10-23 20:15:15,500 3430478 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Cancel button
+2022-10-23 20:15:15,502 3430480 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add Card button is clickable
+2022-10-23 20:16:46,431 3521409 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Add Card button is displayed
+2022-10-23 20:17:47,115 3582093 [main] INFO  com.trello.android.baseutil.BaseTest - Add Card button is displayed
+2022-10-23 20:18:27,570 3622548 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Add Card button
+2022-10-23 20:19:28,102 3683080 [main] INFO  com.trello.android.baseutil.BaseTest - Card name text field is displayed
+2022-10-23 20:22:40,016 3874994 [main] INFO  com.trello.android.baseutil.BaseTest - testing2 is entered into Card name text field
+2022-10-23 20:23:40,656 3935634 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text testing2 is matching with the testing2 text in the application 
+2022-10-23 20:23:40,658 3935636 [main] INFO  com.trello.android.baseutil.BaseTest - testing2 is entered into Card name text field
+2022-10-23 20:23:40,659 3935637 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is clickable
+2022-10-23 20:25:11,461 4026439 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Confirm button is displayed
+2022-10-23 20:26:12,141 4087119 [main] INFO  com.trello.android.baseutil.BaseTest - Confirm button is displayed
+2022-10-23 20:26:52,649 4127627 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Confirm button
+2022-10-23 20:26:52,650 4127628 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Cancel button is clickable
+2022-10-23 20:28:23,561 4218539 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Cancel button is displayed
+2022-10-23 20:29:24,261 4279239 [main] INFO  com.trello.android.baseutil.BaseTest - Cancel button is displayed
+2022-10-23 20:30:04,745 4319723 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Cancel button
+2022-10-23 20:30:04,747 4319725 [main] INFO  com.trello.android.baseutil.BaseTest - Validate List actions button is clickable
+2022-10-23 20:31:35,665 4410643 [main] INFO  com.trello.android.baseutil.BaseTest - Validate List actions button is displayed
+2022-10-23 20:32:36,382 4471360 [main] INFO  com.trello.android.baseutil.BaseTest - List actions button is displayed
+2022-10-23 20:33:16,875 4511853 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on List actions button
+2022-10-23 20:33:27,161 4522139 [main] ERROR com.trello.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: Redmi Note 7 Pro, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: 6c9f6803, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 6c9f6803, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 0c5ad854-bdbb-408a-8996-868f83a182ce
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='null']}
+2022-10-23 20:33:39,628 4534606 [main] INFO  com.trello.android.baseutil.BaseTest - Appium server stopped

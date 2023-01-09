@@ -1,0 +1,21 @@
+2022-10-24 20:14:20,423 596  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-24 20:14:24,360 4533 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-24 20:14:24,361 4534 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-24 20:14:24,362 4535 [main] INFO  com.trello.android.baseutil.BaseTest - Launching the Emulator
+2022-10-24 20:17:24,384 184557 [main] INFO  com.trello.android.baseutil.BaseTest - Emulator launched successfully!
+2022-10-24 20:17:24,552 184725 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-24 20:17:24,567 184740 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_24_2022_20_17_24
+2022-10-24 20:17:24,991 185164 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-24 20:17:24,993 185166 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-24 20:17:58,164 218337 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-24 20:18:02,023 222196 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-24 20:18:02,412 222585 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-24 20:18:02,734 222907 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-24 20:18:07,961 228134 [main] ERROR com.trello.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.43.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: pixel4, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 560, deviceScreenSize: 1440x3040, deviceUDID: emulator-5554, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 3.5, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 84, takesScreenshot: true, viewportRect: {height: 2788, left: 0, top: 84, width: 1440}, warnings: {}, webStorageEnabled: false}
+Session ID: 08ac0e4e-6721-4170-97bf-5faded302ed7
+*** Element info: {Using=xpath, value=//android.widget.TextView[contains(@text,'abhishek.m04@testyantra.com')]}

@@ -1,0 +1,6 @@
+2022-12-28 13:47:18,958 404  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-28 13:47:18,982 428  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Trello_Api_Framework/reports/Automation Report- 12_28_2022_13_47_18
+2022-12-28 13:47:19,131 577  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-28 13:47:19,132 578  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2022-12-28 13:47:23,557 5003 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/plain; charset=utf-8
+2022-12-28 13:47:23,581 5027 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

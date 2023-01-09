@@ -1,0 +1,268 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "artists": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "external_urls": {
+              "type": "object",
+              "properties": {
+                "spotify": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "spotify"
+              ]
+            },
+            "followers": {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "null"
+                },
+                "total": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "href",
+                "total"
+              ]
+            },
+            "genres": {
+              "type": "array",
+              "items": {}
+            },
+            "href": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "images": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                }
+              ]
+            },
+            "name": {
+              "type": "string"
+            },
+            "popularity": {
+              "type": "integer"
+            },
+            "type": {
+              "type": "string"
+            },
+            "uri": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "external_urls",
+            "followers",
+            "genres",
+            "href",
+            "id",
+            "images",
+            "name",
+            "popularity",
+            "type",
+            "uri"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "external_urls": {
+              "type": "object",
+              "properties": {
+                "spotify": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "spotify"
+              ]
+            },
+            "followers": {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "null"
+                },
+                "total": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "href",
+                "total"
+              ]
+            },
+            "genres": {
+              "type": "array",
+              "items": {}
+            },
+            "href": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            },
+            "images": {
+              "type": "array",
+              "items": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "height": {
+                      "type": "integer"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "width": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "height",
+                    "url",
+                    "width"
+                  ]
+                }
+              ]
+            },
+            "name": {
+              "type": "string"
+            },
+            "popularity": {
+              "type": "integer"
+            },
+            "type": {
+              "type": "string"
+            },
+            "uri": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "external_urls",
+            "followers",
+            "genres",
+            "href",
+            "id",
+            "images",
+            "name",
+            "popularity",
+            "type",
+            "uri"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "artists"
+  ]
+}

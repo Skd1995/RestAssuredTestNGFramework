@@ -1,0 +1,2 @@
+2023-01-03 15:13:09,398 1509 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/html; charset=utf-8
+2023-01-03 15:13:09,401 1512 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

@@ -1,0 +1,14 @@
+2022-11-05 13:16:14,177 447  [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-05 13:16:18,174 4444 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-05 13:16:18,175 4445 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-05 13:16:18,176 4446 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Launching the Emulator
+2022-11-05 13:16:22,486 8756 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-05 13:16:22,493 8763 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-05 13:16:22,499 8769 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 11_05_2022_13_16_22
+2022-11-05 13:16:22,750 9020 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-05 13:16:22,751 9021 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-05 13:16:49,767 36037 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-05 13:16:51,162 37432 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-05 13:16:51,537 37807 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-05 13:16:51,907 38177 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-05 13:16:51,920 38190 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Wait for visibility of Email text field

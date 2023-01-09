@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Trello]">
+  <parameter name="applicationType" value="mobile"/>
+  <listeners>
+    <listener class-name="com.tyss.flipkart.android.listener.TestListners"/>
+  </listeners>
+  <test thread-count="1" name="Demo_Test1(failed)">
+    <classes>
+      <class name="com.tyss.flipkart.android.testscripts.TC_Flipkart_001">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_Flipkart_001"/>
+          <include name="closeBrowser"/>
+          <include name="killTask"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- com.tyss.flipkart.android.testscripts.TC_Flipkart_001 -->
+    </classes>
+  </test> <!-- Demo_Test1(failed) -->
+</suite> <!-- Failed suite [Trello] -->

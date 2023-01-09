@@ -1,0 +1,29 @@
+2022-11-05 13:19:16,886 342  [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-05 13:19:17,057 513  [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-05 13:19:17,057 513  [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-05 13:19:17,057 513  [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Launching the Emulator
+2022-11-05 13:19:21,727 5183 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-05 13:19:21,732 5188 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-05 13:19:21,737 5193 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 11_05_2022_13_19_21
+2022-11-05 13:19:21,946 5402 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-05 13:19:21,947 5403 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-05 13:19:36,746 20202 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-05 13:19:37,625 21081 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-05 13:19:37,908 21364 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-05 13:19:38,114 21570 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-05 13:19:38,124 21580 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Sign in with email Button is clickable
+2022-11-05 13:19:39,735 23191 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Sign in with email Button is displayed
+2022-11-05 13:19:39,928 23384 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Sign in with email Button is displayed
+2022-11-05 13:19:40,046 23502 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked on Sign in with email Button
+2022-11-05 13:19:40,048 23504 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Browser icon is clickable
+2022-11-05 13:19:42,766 26222 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Validate Browser icon is displayed
+2022-11-05 13:19:43,035 26491 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Browser icon is displayed
+2022-11-05 13:19:43,268 26724 [main] INFO  com.tyss.trello.android.baseutil.BaseTest - Clicked on Browser icon
+2022-11-05 13:19:58,798 42254 [main] ERROR com.tyss.trello.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.43.178', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: home.HomeActivity, appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: home.HomeActivity, appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: Redmi Note 7 Pro, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 28, deviceManufacturer: Google, deviceModel: AOSP on IA Emulator, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 873a8bf4-3b2f-4b95-8207-76456b89002c
+*** Element info: {Using=xpath, value=//android.view.View[contains(@text,'abhishek')]}

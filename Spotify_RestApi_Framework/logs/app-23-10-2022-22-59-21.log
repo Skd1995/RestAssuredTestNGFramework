@@ -1,0 +1,18 @@
+2022-10-23 22:59:22,065 149  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-23 22:59:23,216 1300 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-23 22:59:23,216 1300 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-23 22:59:23,218 1302 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-23 22:59:23,220 1304 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_23_2022_22_59_23
+2022-10-23 22:59:23,282 1366 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-23 22:59:23,282 1366 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-23 22:59:35,971 14055 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-23 22:59:39,566 17650 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-23 22:59:59,948 38032 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-23 23:00:40,577 78661 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-23 23:00:50,942 89026 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-23 23:01:51,171 149255 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-23 23:02:31,408 189492 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-23 23:03:01,606 219690 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-23 23:03:11,662 229746 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-10-23 23:03:11,663 229747 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-10-23 23:04:43,854 321938 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed

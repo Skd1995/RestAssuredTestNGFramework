@@ -1,0 +1,12 @@
+2022-12-27 17:36:42,906 143  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 17:36:42,915 152  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_17_36_42
+2022-12-27 17:36:42,979 216  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 17:36:42,979 216  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 17:36:42,982 219  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 17:36:42,983 220  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_17_36_42
+2022-12-27 17:36:42,988 225  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 17:36:42,988 225  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 17:36:45,036 2273 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-27 17:36:45,037 2274 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-27 17:36:45,126 2363 [main] INFO  com.reqres.baseutil.BaseTest - Status code is: 200
+2022-12-27 17:36:45,143 2380 [main] INFO  com.reqres.baseutil.BaseTest - Response time is less than 2000

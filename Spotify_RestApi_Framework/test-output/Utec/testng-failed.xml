@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Utec]">
+  <parameter name="applicationType" value="mobile"/>
+  <listeners>
+    <listener class-name="com.trello.android.listener.TestListners"/>
+  </listeners>
+  <test thread-count="1" name="POC_Test1(failed)">
+    <parameter name="applicationType" value="mobile"/>
+    <classes>
+      <class name="com.trello.android.testscripts.Demo">
+        <methods>
+          <include name="killTask"/>
+          <include name="launchApp"/>
+          <include name="TC_TYSS_Demo"/>
+          <include name="closeBrowser"/>
+          <include name="createFiles"/>
+        </methods>
+      </class> <!-- com.trello.android.testscripts.Demo -->
+    </classes>
+  </test> <!-- POC_Test1(failed) -->
+</suite> <!-- Failed suite [Utec] -->

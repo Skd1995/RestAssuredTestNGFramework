@@ -1,0 +1,6 @@
+2022-12-27 12:40:05,395 142  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 12:40:05,404 151  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_12_40_05
+2022-12-27 12:40:05,466 213  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 12:40:05,466 213  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 12:40:07,649 2396 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-27 12:40:07,652 2399 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

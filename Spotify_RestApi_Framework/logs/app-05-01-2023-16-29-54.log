@@ -1,0 +1,7 @@
+2023-01-05 16:29:55,651 789  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-05 16:29:55,659 797  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_05_2023_16_29_55
+2023-01-05 16:29:55,741 879  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-05 16:29:55,742 880  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-05 16:29:58,699 3837 [main] INFO  com.spotify.baseutil.BaseTest - Updated Successfully
+2023-01-05 16:29:58,709 3847 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-05 16:29:58,743 3881 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 

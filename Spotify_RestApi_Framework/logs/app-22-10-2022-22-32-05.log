@@ -1,0 +1,15 @@
+2022-10-22 22:32:05,739 173  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-22 22:32:06,870 1304 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-22 22:32:06,871 1305 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-22 22:32:06,874 1308 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-22 22:32:06,876 1310 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_22_2022_22_32_06
+2022-10-22 22:32:06,960 1394 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-22 22:32:06,961 1395 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-22 22:32:20,464 14898 [main] INFO  com.trello.android.baseutil.BaseTest - Login Page is Displayed
+2022-10-22 22:32:20,465 14899 [main] INFO  com.trello.android.baseutil.BaseTest - Wait for visibility of Login Button
+2022-10-22 22:33:01,234 55668 [main] ERROR com.trello.android.baseutil.BaseTest - Login Button is not visible
+2022-10-22 22:33:01,235 55669 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-22 22:33:22,992 77426 [main] ERROR com.trello.android.baseutil.BaseTest - Login Button is not clickable
+2022-10-22 22:33:22,993 77427 [main] ERROR com.trello.android.baseutil.BaseTest - Unable to click on Login Button
+2022-10-22 22:33:44,654 99088 [main] ERROR com.trello.android.baseutil.BaseTest - Expected condition failed: waiting for element to be clickable: Located by By.chained({By.xpath: //android.widget.Button[@resource-id='com.trello:id/log_in_button']}) (tried for 20 second(s) with 500 milliseconds interval)
+2022-10-22 22:33:46,418 100852 [main] INFO  com.trello.android.baseutil.BaseTest - Appium server stopped

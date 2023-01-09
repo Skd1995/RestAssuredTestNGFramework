@@ -1,0 +1,7 @@
+2022-11-28 13:04:05,468 591  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-28 13:04:05,736 859  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-28 13:04:05,737 860  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-28 13:04:05,748 871  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-28 13:04:05,758 881  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Flipkart_Mobile_Framework/reports/Automation Report- 11_28_2022_13_04_05
+2022-11-28 13:04:06,114 1237 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-28 13:04:06,115 1238 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created

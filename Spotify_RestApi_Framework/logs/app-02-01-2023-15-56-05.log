@@ -1,0 +1,9 @@
+2023-01-02 15:56:05,238 173  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2023-01-02 15:56:05,245 180  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Manju\Trello_ApiRestAssured_Framework\Trello_ApiRestAssured_Framework/reports/Automation Report- 01_02_2023_15_56_05
+2023-01-02 15:56:05,325 260  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2023-01-02 15:56:05,325 260  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2023-01-02 15:56:08,494 3429 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/plain; charset=utf-8
+2023-01-02 15:56:08,517 3452 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-02 15:56:08,712 3647 [main] ERROR com.trello.baseutil.BaseTest - 1 expectation failed.
+Expected status code <200> but was <404>.
+

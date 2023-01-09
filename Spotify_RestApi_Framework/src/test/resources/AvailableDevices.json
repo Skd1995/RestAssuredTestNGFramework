@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "devices": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "is_active": {
+              "type": "boolean"
+            },
+            "is_private_session": {
+              "type": "boolean"
+            },
+            "is_restricted": {
+              "type": "boolean"
+            },
+            "name": {
+              "type": "string"
+            },
+            "type": {
+              "type": "string"
+            },
+            "volume_percent": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "id",
+            "is_active",
+            "is_private_session",
+            "is_restricted",
+            "name",
+            "type",
+            "volume_percent"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "devices"
+  ]
+}

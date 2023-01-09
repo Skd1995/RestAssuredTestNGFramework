@@ -1,0 +1,33 @@
+2022-11-30 16:48:26,975 432  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-30 16:48:27,184 641  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server started
+2022-11-30 16:48:27,185 642  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-30 16:48:27,185 642  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Launching the Emulator
+2022-11-30 16:48:27,295 752  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Emulator launched successfully!
+2022-11-30 16:48:27,302 759  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-30 16:48:27,306 763  [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\Flipkart_Mobile_Framework\Flipkart_Mobile_Framework/reports/Automation Report- 11_30_2022_16_48_27
+2022-11-30 16:48:27,560 1017 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Report Initiated
+2022-11-30 16:48:27,560 1017 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Screenshot folder created
+2022-11-30 16:48:50,329 23786 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-11-30 16:48:50,608 24065 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is clickable
+2022-11-30 16:48:50,678 24135 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate English language text is displayed
+2022-11-30 16:48:50,738 24195 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - English language text is displayed
+2022-11-30 16:48:50,830 24287 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on English language text
+2022-11-30 16:48:50,831 24288 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is clickable
+2022-11-30 16:48:52,027 25484 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Continue Button is displayed
+2022-11-30 16:48:52,334 25791 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Continue Button is displayed
+2022-11-30 16:48:53,767 27224 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Continue Button
+2022-11-30 16:48:53,769 27226 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is clickable
+2022-11-30 16:48:56,327 29784 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate None of the above Button is displayed
+2022-11-30 16:48:56,509 29966 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - None of the above Button is displayed
+2022-11-30 16:48:56,633 30090 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on None of the above Button
+2022-11-30 16:48:58,018 31475 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Login Page is Displayed
+2022-11-30 16:48:58,021 31478 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is clickable
+2022-11-30 16:48:58,270 31727 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Crossmark Button is displayed
+2022-11-30 16:48:58,416 31873 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Crossmark Button is displayed
+2022-11-30 16:48:58,532 31989 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Crossmark Button
+2022-11-30 16:49:02,218 35675 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Home Page is Displayed
+2022-11-30 16:49:02,444 35901 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Wait for visibility of Cart tab
+2022-11-30 16:49:02,746 36203 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Cart tab is clickable
+2022-11-30 16:49:02,808 36265 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Validate Cart tab is displayed
+2022-11-30 16:49:02,849 36306 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Cart tab is displayed
+2022-11-30 16:49:02,925 36382 [main] INFO  com.tyss.flipkart.android.baseutil.BaseTest - Clicked on Cart tab

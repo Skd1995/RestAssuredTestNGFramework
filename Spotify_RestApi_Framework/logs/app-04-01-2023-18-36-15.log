@@ -1,0 +1,17 @@
+2023-01-04 18:36:18,501 3386 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 18:36:18,512 3397 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_18_36_18
+2023-01-04 18:36:18,508 3176 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 18:36:18,526 3194 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_18_36_18
+2023-01-04 18:36:18,860 3745 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 18:36:18,861 3746 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 18:36:18,929 3597 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 18:36:27,889 12774 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 18:36:27,891 12776 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 18:36:27,959 12627 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 18:36:27,964 12632 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 18:36:29,966 14634 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 18:36:29,967 14635 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 18:36:30,002 14887 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 18:36:30,031 14916 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 18:36:30,349 15234 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 18:36:30,366 15034 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 

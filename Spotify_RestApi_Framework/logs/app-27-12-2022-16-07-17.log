@@ -1,0 +1,10 @@
+2022-12-27 16:07:17,409 355  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 16:07:17,427 373  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_16_07_17
+2022-12-27 16:07:17,566 512  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 16:07:17,567 513  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 16:07:17,574 520  [main] INFO  com.reqres.baseutil.BaseTest - Folder creation for Extent
+2022-12-27 16:07:17,576 522  [main] INFO  com.reqres.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\ReqRes_Api_Framework/reports/Automation Report- 12_27_2022_16_07_17
+2022-12-27 16:07:17,607 553  [main] INFO  com.reqres.baseutil.BaseTest - Report Initiated
+2022-12-27 16:07:17,608 554  [main] INFO  com.reqres.baseutil.BaseTest - Screenshot folder created
+2022-12-27 16:07:21,343 4289 [main] INFO  com.reqres.baseutil.BaseTest - Status code is: 204
+2022-12-27 16:07:21,394 4340 [main] INFO  com.reqres.baseutil.BaseTest - Response time is less than 2000

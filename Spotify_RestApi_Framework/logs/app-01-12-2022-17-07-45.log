@@ -1,0 +1,77 @@
+2022-12-01 17:07:46,080 335  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Starting the Appium Server
+2022-12-01 17:07:46,225 480  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server started
+2022-12-01 17:07:46,226 481  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-12-01 17:07:46,226 481  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Launching the Emulator
+2022-12-01 17:07:46,319 574  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Emulator launched successfully!
+2022-12-01 17:07:46,325 580  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Folder creation for Extent
+2022-12-01 17:07:46,330 585  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\JioSavan_Mobile_Framework/reports/Automation Report- 12_01_2022_17_07_46
+2022-12-01 17:07:46,522 777  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Report Initiated
+2022-12-01 17:07:46,523 778  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Screenshot folder created
+2022-12-01 17:08:06,034 20289 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-12-01 17:08:06,173 20428 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:08:06,361 20616 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is clickable
+2022-12-01 17:08:06,886 21141 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is displayed
+2022-12-01 17:08:06,939 21194 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - English language text is displayed
+2022-12-01 17:08:07,026 21281 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on English language text
+2022-12-01 17:08:07,282 21537 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Next Button
+2022-12-01 17:08:07,693 21948 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-12-01 17:08:07,747 22002 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-12-01 17:08:07,791 22046 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Next Button is displayed
+2022-12-01 17:08:07,845 22100 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Next Button
+2022-12-01 17:08:09,997 24252 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:08:10,149 24404 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is clickable
+2022-12-01 17:08:10,200 24455 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is displayed
+2022-12-01 17:08:10,233 24488 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Kannada language text is displayed
+2022-12-01 17:08:10,301 24556 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Kannada language text
+2022-12-01 17:08:10,994 25249 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Done Button
+2022-12-01 17:08:11,214 25469 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is clickable
+2022-12-01 17:08:11,281 25536 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is displayed
+2022-12-01 17:08:11,323 25578 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Done Button is displayed
+2022-12-01 17:08:13,629 27884 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Done Button
+2022-12-01 17:08:13,860 28115 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Jiosavan Home
+2022-12-01 17:08:14,135 28390 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Jiosavan Home page is displayed
+2022-12-01 17:08:14,375 28630 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search text
+2022-12-01 17:08:14,641 28896 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is clickable
+2022-12-01 17:08:16,685 30940 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is displayed
+2022-12-01 17:08:16,764 31019 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search text is displayed
+2022-12-01 17:08:22,410 36665 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Search text
+2022-12-01 17:08:22,648 36903 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search icon
+2022-12-01 17:08:22,968 37223 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is clickable
+2022-12-01 17:08:23,056 37311 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is displayed
+2022-12-01 17:08:23,567 37822 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search icon is displayed
+2022-12-01 17:08:23,683 37938 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Search icon
+2022-12-01 17:08:26,826 41081 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Arjit is entered into Arjit text field
+2022-12-01 17:08:28,471 42726 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Keyboard is hidden
+2022-12-01 17:08:29,221 43476 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Arijit Singh text
+2022-12-01 17:08:29,541 43796 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Arijit Singh text is clickable
+2022-12-01 17:08:29,945 44200 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Arijit Singh text is displayed
+2022-12-01 17:08:29,991 44246 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Arijit Singh text is displayed
+2022-12-01 17:08:30,061 44316 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Arijit Singh text
+2022-12-01 17:08:30,062 44317 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of like icon
+2022-12-01 17:08:32,497 46752 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate like icon is clickable
+2022-12-01 17:08:32,787 47042 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate like icon is displayed
+2022-12-01 17:08:32,994 47249 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - like icon is displayed
+2022-12-01 17:08:33,172 47427 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on like icon
+2022-12-01 17:08:34,880 49135 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Dhokha text
+2022-12-01 17:08:35,536 49791 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Dhokha text is clickable
+2022-12-01 17:08:35,588 49843 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Dhokha text is displayed
+2022-12-01 17:08:35,628 49883 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Dhokha text is displayed
+2022-12-01 17:08:35,695 49950 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Dhokha text
+2022-12-01 17:08:35,695 49950 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Song
+2022-12-01 17:08:52,511 66766 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Song is clickable
+2022-12-01 17:08:59,584 73839 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Song is displayed
+2022-12-01 17:09:02,313 76568 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Song is displayed
+2022-12-01 17:09:02,612 76867 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Song
+2022-12-01 17:09:02,612 76867 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Kebab Icon
+2022-12-01 17:09:09,496 83751 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kebab Icon is clickable
+2022-12-01 17:09:12,090 86345 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kebab Icon is displayed
+2022-12-01 17:09:12,346 86601 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Kebab Icon is displayed
+2022-12-01 17:09:14,101 88356 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Kebab Icon
+2022-12-01 17:09:19,513 93768 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: be90004d-d4ba-47cb-8a3d-47673cd9197c
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Save to Library']}

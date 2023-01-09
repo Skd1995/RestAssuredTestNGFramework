@@ -1,0 +1,49 @@
+2022-10-26 12:20:50,841 162  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-26 12:20:51,984 1305 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-26 12:20:51,984 1305 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-26 12:20:51,986 1307 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-26 12:20:51,989 1310 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_26_2022_12_20_51
+2022-10-26 12:20:52,060 1381 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-26 12:20:52,061 1382 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-26 12:21:02,947 12268 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-26 12:21:04,503 13824 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-26 12:21:04,735 14056 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-26 12:21:04,920 14241 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-26 12:21:17,133 26454 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-26 12:22:17,497 86818 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-26 12:22:57,668 126989 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-26 12:23:27,999 157320 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-26 12:24:28,761 218082 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-10-26 12:24:28,762 218083 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-10-26 12:25:59,820 309141 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed
+2022-10-26 12:27:00,402 369723 [main] INFO  com.trello.android.baseutil.BaseTest - Plus Icon is displayed
+2022-10-26 12:27:40,898 410219 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Plus Icon
+2022-10-26 12:28:41,633 470954 [main] INFO  com.trello.android.baseutil.BaseTest - Board Icon is displayed
+2022-10-26 12:28:41,634 470955 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is clickable
+2022-10-26 12:30:12,606 561927 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is displayed
+2022-10-26 12:31:13,117 622438 [main] INFO  com.trello.android.baseutil.BaseTest - Create Board Icon is displayed
+2022-10-26 12:31:53,611 662932 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Create Board Icon
+2022-10-26 12:32:54,301 723622 [main] INFO  com.trello.android.baseutil.BaseTest -  Create Board Page is Displayed
+2022-10-26 12:36:06,348 915669 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-10-26 12:37:06,996 976317 [main] INFO  com.trello.android.baseutil.BaseTest - Expected text Doing is matching with the Doing text in the application 
+2022-10-26 12:37:06,997 976318 [main] INFO  com.trello.android.baseutil.BaseTest - Doing is entered into Board name text field
+2022-10-26 12:37:06,999 976320 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown is clickable
+2022-10-26 12:38:15,664 1044985 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown is displayed
+2022-10-26 12:38:15,853 1045174 [main] INFO  com.trello.android.baseutil.BaseTest - Workspace dropdown is displayed
+2022-10-26 12:38:16,018 1045339 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Workspace dropdown
+2022-10-26 12:38:16,782 1046103 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown option is clickable
+2022-10-26 12:38:16,851 1046172 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Workspace dropdown option is displayed
+2022-10-26 12:38:16,906 1046227 [main] INFO  com.trello.android.baseutil.BaseTest - Workspace dropdown option is displayed
+2022-10-26 12:38:27,048 1056369 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Workspace dropdown option
+2022-10-26 12:38:27,049 1056370 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown is clickable
+2022-10-26 12:39:55,435 1144756 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown is displayed
+2022-10-26 12:39:56,077 1145398 [main] INFO  com.trello.android.baseutil.BaseTest - Visibility dropdown is displayed
+2022-10-26 12:39:56,379 1145700 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Visibility dropdown
+2022-10-26 12:39:57,522 1146843 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown option is clickable
+2022-10-26 12:39:57,591 1146912 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Visibility dropdown option is displayed
+2022-10-26 12:39:57,643 1146964 [main] INFO  com.trello.android.baseutil.BaseTest - Visibility dropdown option is displayed
+2022-10-26 12:39:57,713 1147034 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Visibility dropdown option
+2022-10-26 12:39:57,713 1147034 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Done Icon is clickable
+2022-10-26 12:39:57,934 1147255 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Done Icon is displayed
+2022-10-26 12:39:58,083 1147404 [main] INFO  com.trello.android.baseutil.BaseTest - Done Icon is displayed
+2022-10-26 12:39:58,214 1147535 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Done Icon

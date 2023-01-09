@@ -1,0 +1,23 @@
+2022-10-23 22:44:39,514 148  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-23 22:44:40,638 1272 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-23 22:44:40,638 1272 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-23 22:44:40,641 1275 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-23 22:44:40,642 1276 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_23_2022_22_44_40
+2022-10-23 22:44:40,710 1344 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-23 22:44:40,711 1345 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-23 22:44:52,970 13604 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-23 22:44:56,833 17467 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-23 22:44:57,092 17726 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-23 22:44:57,284 17918 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-23 22:45:08,223 28857 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-23 22:46:08,579 89213 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-23 22:46:48,865 129499 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-23 22:47:19,124 159758 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-23 22:47:19,462 160096 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-10-23 22:47:19,462 160096 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Keep up the Great work tab is clickable
+2022-10-23 22:48:51,050 251684 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Keep up the Great work tab is displayed
+2022-10-23 22:49:51,754 312388 [main] INFO  com.trello.android.baseutil.BaseTest - Keep up the Great work tab is displayed
+2022-10-23 22:50:32,346 352980 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Keep up the Great work tab
+2022-10-23 22:50:32,347 352981 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-10-23 22:52:03,307 443941 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed
+2022-10-23 22:53:04,042 504676 [main] INFO  com.trello.android.baseutil.BaseTest - Plus Icon is displayed

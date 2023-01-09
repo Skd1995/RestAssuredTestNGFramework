@@ -1,0 +1,28 @@
+2022-12-30 10:11:30,471 382  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-30 10:11:30,482 393  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Trello_Api_Framework\Trello_Api_Framework/reports/Automation Report- 12_30_2022_10_11_30
+2022-12-30 10:11:30,632 543  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-30 10:11:30,633 544  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2022-12-30 10:11:35,713 5624 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-30 10:11:35,719 5630 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-30 10:11:35,984 5895 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-30 10:11:35,994 5905 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2022-12-30 10:11:36,047 5958 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2022-12-30 10:11:36,048 5959 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000
+2022-12-30 10:11:38,425 8336 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-30 10:11:38,426 8337 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-30 10:11:38,433 8344 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-30 10:11:38,434 8345 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2022-12-30 10:11:38,437 8348 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2022-12-30 10:11:38,437 8348 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000
+2022-12-30 10:11:39,563 9474 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-30 10:11:39,564 9475 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-30 10:11:39,572 9483 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-30 10:11:39,572 9483 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2022-12-30 10:11:39,574 9485 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2022-12-30 10:11:39,574 9485 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000
+2022-12-30 10:11:41,341 11252 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-30 10:11:41,342 11253 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-30 10:11:41,347 11258 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-30 10:11:41,348 11259 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2022-12-30 10:11:41,354 11265 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than: 2000
+2022-12-30 10:11:41,354 11265 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000

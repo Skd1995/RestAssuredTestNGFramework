@@ -1,0 +1,21 @@
+2022-10-22 22:35:27,258 146  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-22 22:35:28,384 1272 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-22 22:35:28,384 1272 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-22 22:35:28,386 1274 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-22 22:35:28,389 1277 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_22_2022_22_35_28
+2022-10-22 22:35:28,450 1338 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-22 22:35:28,451 1339 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-22 22:36:39,597 72485 [main] INFO  com.trello.android.baseutil.BaseTest - Login Page is Displayed
+2022-10-22 22:36:39,598 72486 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-22 22:38:10,726 163614 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-22 22:39:11,326 224214 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-22 22:39:51,948 264836 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-22 22:40:02,266 275154 [main] ERROR com.trello.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-ABHISHEK', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, databaseEnabled: false, desired: {appActivity: .feature.authentication.Ver..., appPackage: com.trello, autoGrantPermissions: true, automationName: Appium, deviceName: Redmi Note 7 Pro, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: 6c9f6803, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: 6c9f6803, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 3edc87e4-d058-4660-954e-0749ea199c21
+*** Element info: {Using=xpath, value=//android.widget.TextView[contains(@text,'abhishek.m04@testyantra.com')]}
+2022-10-22 22:40:04,390 277278 [main] INFO  com.trello.android.baseutil.BaseTest - Appium server stopped

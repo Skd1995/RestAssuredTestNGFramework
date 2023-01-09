@@ -1,0 +1,14 @@
+2022-11-04 19:44:06,663 315  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-11-04 19:44:08,448 2100 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-11-04 19:44:08,449 2101 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-11-04 19:44:08,455 2107 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-11-04 19:44:08,461 2113 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 11_04_2022_19_44_08
+2022-11-04 19:44:08,619 2271 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-11-04 19:44:08,620 2272 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-11-04 19:44:23,959 17611 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-11-04 19:45:55,231 108883 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-11-04 19:46:55,963 169615 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-11-04 19:47:36,688 210340 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-11-04 19:47:36,695 210347 [main] INFO  com.trello.android.baseutil.BaseTest - Wait for visibility of Email text field
+2022-11-04 19:50:31,647 385299 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked and typed abhishek.m04@testyantra.com in Email text field
+2022-11-04 19:50:31,649 385301 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Next Button is clickable

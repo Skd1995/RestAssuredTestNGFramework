@@ -1,0 +1,52 @@
+2022-12-01 17:03:26,643 145  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Starting the Appium Server
+2022-12-01 17:03:26,705 207  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server started
+2022-12-01 17:03:26,706 208  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-12-01 17:03:26,706 208  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Launching the Emulator
+2022-12-01 17:03:26,738 240  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Emulator launched successfully!
+2022-12-01 17:03:26,742 244  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Folder creation for Extent
+2022-12-01 17:03:26,743 245  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - ExtentDir:-C:\WorkSpace2\JioSavan_Mobile_Framework/reports/Automation Report- 12_01_2022_17_03_26
+2022-12-01 17:03:26,814 316  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Report Initiated
+2022-12-01 17:03:26,814 316  [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Screenshot folder created
+2022-12-01 17:03:44,726 18228 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Choose language Page is Displayed
+2022-12-01 17:03:44,969 18471 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:03:45,309 18811 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is clickable
+2022-12-01 17:03:45,418 18920 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate English language text is displayed
+2022-12-01 17:03:45,463 18965 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - English language text is displayed
+2022-12-01 17:03:45,529 19031 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on English language text
+2022-12-01 17:03:45,793 19295 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Next Button
+2022-12-01 17:03:46,290 19792 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is clickable
+2022-12-01 17:03:46,343 19845 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Next Button is displayed
+2022-12-01 17:03:46,411 19913 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Next Button is displayed
+2022-12-01 17:03:46,502 20004 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Next Button
+2022-12-01 17:03:47,592 21094 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of language text
+2022-12-01 17:03:48,860 22362 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is clickable
+2022-12-01 17:03:48,925 22427 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Kannada language text is displayed
+2022-12-01 17:03:48,968 22470 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Kannada language text is displayed
+2022-12-01 17:03:49,029 22531 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Kannada language text
+2022-12-01 17:03:49,855 23357 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Done Button
+2022-12-01 17:03:50,472 23974 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is clickable
+2022-12-01 17:03:50,502 24004 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Done Button is displayed
+2022-12-01 17:03:50,523 24025 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Done Button is displayed
+2022-12-01 17:03:50,587 24089 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Done Button
+2022-12-01 17:03:53,610 27112 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Jiosavan Home
+2022-12-01 17:03:55,241 28743 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Jiosavan Home page is displayed
+2022-12-01 17:03:55,615 29117 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search text
+2022-12-01 17:03:56,464 29966 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is clickable
+2022-12-01 17:03:59,235 32737 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search text is displayed
+2022-12-01 17:03:59,261 32763 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search text is displayed
+2022-12-01 17:03:59,335 32837 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Search text
+2022-12-01 17:03:59,603 33105 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Wait for visibility of Search icon
+2022-12-01 17:04:00,500 34002 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is clickable
+2022-12-01 17:04:00,543 34045 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Validate Search icon is displayed
+2022-12-01 17:04:00,566 34068 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Search icon is displayed
+2022-12-01 17:04:04,188 37690 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Clicked on Search icon
+2022-12-01 17:04:07,001 40503 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Arjit is entered into Arjit text field
+2022-12-01 17:04:08,603 42105 [main] INFO  com.tyss.jiosavan.android.baseutil.BaseTest - Keyboard is hidden
+2022-12-01 17:04:13,924 47426 [main] ERROR com.tyss.jiosavan.android.baseutil.BaseTest - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TYSS-MANJAPPA', ip: '192.168.2.132', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .GoogleVoiceSearchActivity, appPackage: com.jio.media.jiobeats, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: vivo T1 5G, fullReset: false, newCommandTimeout: 10000, platformName: android}, deviceApiLevel: 31, deviceManufacturer: vivo, deviceModel: V2141, deviceName: 1594564202001W8, deviceScreenDensity: 440, deviceScreenSize: 1080x2408, deviceUDID: 1594564202001W8, fullReset: false, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 10000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 88, takesScreenshot: true, viewportRect: {height: 2210, left: 0, top: 88, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 5cfae6aa-87b8-40b1-92b5-ad966a54bac3
+*** Element info: {Using=xpath, value=//android.widget.TextView[@text='Arjit Singh']}

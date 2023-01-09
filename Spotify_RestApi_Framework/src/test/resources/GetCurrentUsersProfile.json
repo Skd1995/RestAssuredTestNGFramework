@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "country": {
+      "type": "string"
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "explicit_content": {
+      "type": "object",
+      "properties": {
+        "filter_enabled": {
+          "type": "boolean"
+        },
+        "filter_locked": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "filter_enabled",
+        "filter_locked"
+      ]
+    },
+    "external_urls": {
+      "type": "object",
+      "properties": {
+        "spotify": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "spotify"
+      ]
+    },
+    "followers": {
+      "type": "object",
+      "properties": {
+        "href": {
+          "type": "null"
+        },
+        "total": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "href",
+        "total"
+      ]
+    },
+    "href": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "images": {
+      "type": "array",
+      "items": {}
+    },
+    "product": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "uri": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "country",
+    "display_name",
+    "email",
+    "explicit_content",
+    "external_urls",
+    "followers",
+    "href",
+    "id",
+    "images",
+    "product",
+    "type",
+    "uri"
+  ]
+}

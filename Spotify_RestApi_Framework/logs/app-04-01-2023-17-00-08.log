@@ -1,0 +1,49 @@
+2023-01-04 17:00:08,692 802  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-04 17:00:08,697 807  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_04_2023_17_00_08
+2023-01-04 17:00:08,783 893  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-04 17:00:08,784 894  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-04 17:00:11,473 3583 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:11,483 3593 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:11,645 3755 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:11,647 3757 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:11,673 3783 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:12,096 4206 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:12,097 4207 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:12,110 4220 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:12,112 4222 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:12,113 4223 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:12,529 4639 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:12,530 4640 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:12,541 4651 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:12,542 4652 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:12,543 4653 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:12,957 5067 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:12,959 5069 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:12,971 5081 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:12,973 5083 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:12,977 5087 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:13,383 5493 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:13,384 5494 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:13,394 5504 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:13,395 5505 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:13,396 5506 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:13,869 5979 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:13,870 5980 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:13,878 5988 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:13,880 5990 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:13,882 5992 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:14,290 6400 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:14,292 6402 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:14,298 6408 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:14,300 6410 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:14,303 6413 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:14,733 6843 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:14,736 6846 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:14,750 6860 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:14,752 6862 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:14,753 6863 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-04 17:00:15,155 7265 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-04 17:00:15,156 7266 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-04 17:00:15,161 7271 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-04 17:00:15,162 7272 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-04 17:00:15,163 7273 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 

@@ -1,0 +1,8 @@
+2022-10-23 18:30:07,186 325  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-23 18:30:08,934 2073 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-23 18:30:08,935 2074 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-23 18:30:08,941 2080 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-23 18:30:08,945 2084 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_23_2022_18_30_08
+2022-10-23 18:30:09,077 2216 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-23 18:30:09,079 2218 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-23 18:30:22,720 15859 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable

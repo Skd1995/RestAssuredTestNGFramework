@@ -1,0 +1,16 @@
+2022-10-23 10:49:25,021 516  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-23 10:49:30,672 6167 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-23 10:49:30,673 6168 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-23 10:49:30,681 6176 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-23 10:49:30,689 6184 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_23_2022_10_49_30
+2022-10-23 10:49:30,883 6378 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-23 10:49:30,884 6379 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-23 10:50:21,418 56913 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-23 10:51:52,916 148411 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-23 10:52:53,576 209071 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-23 10:53:34,172 249667 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-23 10:53:44,473 259968 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-23 10:54:44,779 320274 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-23 10:55:25,080 360575 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-23 10:55:55,411 390906 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-23 10:55:55,413 390908 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable

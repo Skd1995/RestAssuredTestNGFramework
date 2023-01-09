@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [JioSavan]">
+  <parameter name="applicationType" value="virtual"/>
+  <listeners>
+    <listener class-name="com.tyss.jiosavan.android.listener.TestListners"/>
+  </listeners>
+  <test thread-count="1" name="Demo_Test1(failed)">
+    <classes>
+      <class name="com.tyss.jiosavan.android.testscripts.TC_Jiosavan_002">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="killTask"/>
+          <include name="createFiles"/>
+          <include name="launchApp"/>
+          <include name="TC_TYSS_Flipkart_002"/>
+        </methods>
+      </class> <!-- com.tyss.jiosavan.android.testscripts.TC_Jiosavan_002 -->
+    </classes>
+  </test> <!-- Demo_Test1(failed) -->
+</suite> <!-- Failed suite [JioSavan] -->

@@ -1,0 +1,33 @@
+2023-01-08 20:44:59,164 674  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-08 20:44:59,168 678  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\Admin\Downloads\Spotify_Api_Framework\Spotify_Api_Framework/reports/Automation Report- 01_08_2023_20_44_59
+2023-01-08 20:44:59,235 745  [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-08 20:44:59,235 745  [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-08 20:45:01,861 3371 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-08 20:45:01,864 3374 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-08 20:45:02,059 3569 [main] INFO  com.spotify.baseutil.BaseTest - Get details successfully
+2023-01-08 20:45:02,060 3570 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-08 20:45:02,093 3603 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 
+2023-01-08 20:45:02,908 4418 [main] ERROR com.spotify.baseutil.BaseTest - 1 expectation failed.
+Response body doesn't match expectation.
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["country","display_name","email","explicit_content","external_urls","followers","href","id","images","product","type","uri"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/Admin/Downloads/Spotify_Api_Framework/Spotify_Api_Framework/target/test-classes/GetCurrentUsersProfile.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["country","display_name","email","explicit_content","external_urls","followers","href","id","images","product","type","uri"]
+    missing: ["country","display_name","email","explicit_content","external_urls","followers","href","id","images","product","type","uri"]
+
+  Actual: {
+  "devices" : [ {
+    "id" : "3d2033142c0f131c3a4a01a03bc0decc5df4b99e",
+    "is_active" : false,
+    "is_private_session" : false,
+    "is_restricted" : false,
+    "name" : "DESKTOP-7UUT0JG",
+    "type" : "Computer",
+    "volume_percent" : 100
+  } ]
+}
+

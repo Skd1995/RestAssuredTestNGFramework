@@ -1,0 +1,9 @@
+2022-12-29 18:20:35,726 162  [main] INFO  com.trello.baseutil.BaseTest - Folder creation for Extent
+2022-12-29 18:20:35,731 167  [main] INFO  com.trello.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Trello_Api_Framework\Trello_Api_Framework/reports/Automation Report- 12_29_2022_18_20_35
+2022-12-29 18:20:35,797 233  [main] INFO  com.trello.baseutil.BaseTest - Report Initiated
+2022-12-29 18:20:35,797 233  [main] INFO  com.trello.baseutil.BaseTest - Screenshot folder created
+2022-12-29 18:20:38,601 3037 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2022-12-29 18:20:38,602 3038 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-12-29 18:20:38,721 3157 [main] INFO  com.trello.baseutil.BaseTest - Status code is: 200
+2022-12-29 18:20:38,727 3163 [main] INFO  com.trello.baseutil.BaseTest - Content type is: application/json
+2022-12-29 18:20:38,746 3182 [main] INFO  com.trello.baseutil.BaseTest - Response time is less than 2000

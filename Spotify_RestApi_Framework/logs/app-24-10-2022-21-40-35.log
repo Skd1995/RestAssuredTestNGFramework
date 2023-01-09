@@ -1,0 +1,22 @@
+2022-10-24 21:40:35,776 323  [main] INFO  com.trello.android.baseutil.BaseTest - Starting the Appium Server
+2022-10-24 21:40:37,570 2117 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server started
+2022-10-24 21:40:37,572 2119 [main] INFO  com.trello.android.baseutil.BaseTest - Appium Server URL: http://127.0.0.1:4723/wd/hub
+2022-10-24 21:40:37,580 2127 [main] INFO  com.trello.android.baseutil.BaseTest - Folder creation for Extent
+2022-10-24 21:40:37,589 2136 [main] INFO  com.trello.android.baseutil.BaseTest - ExtentDir:-C:\Users\Abhishek\Abhishek_Workspace\Mobile_Framework/reports/Automation Report- 10_24_2022_21_40_37
+2022-10-24 21:40:37,773 2320 [main] INFO  com.trello.android.baseutil.BaseTest - Report Initiated
+2022-10-24 21:40:37,774 2321 [main] INFO  com.trello.android.baseutil.BaseTest - Screenshot folder created
+2022-10-24 21:41:12,858 37405 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is clickable
+2022-10-24 21:41:13,993 38540 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Login Button is displayed
+2022-10-24 21:41:14,283 38830 [main] INFO  com.trello.android.baseutil.BaseTest - Login Button is displayed
+2022-10-24 21:41:14,523 39070 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Login Button
+2022-10-24 21:41:27,424 51971 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is clickable
+2022-10-24 21:42:27,893 112440 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Email text is displayed
+2022-10-24 21:43:08,276 152823 [main] INFO  com.trello.android.baseutil.BaseTest - Email text is displayed
+2022-10-24 21:43:38,321 182868 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Email text
+2022-10-24 21:43:38,575 183122 [main] INFO  com.trello.android.baseutil.BaseTest - Home Page is Displayed
+2022-10-24 21:43:38,576 183123 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is clickable
+2022-10-24 21:43:39,616 184163 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Plus Icon is displayed
+2022-10-24 21:44:30,129 234676 [main] INFO  com.trello.android.baseutil.BaseTest - Plus Icon is displayed
+2022-10-24 21:45:10,654 275201 [main] INFO  com.trello.android.baseutil.BaseTest - Clicked on Plus Icon
+2022-10-24 21:46:11,334 335881 [main] INFO  com.trello.android.baseutil.BaseTest - Board Icon is displayed
+2022-10-24 21:46:11,334 335881 [main] INFO  com.trello.android.baseutil.BaseTest - Validate Create Board Icon is clickable
