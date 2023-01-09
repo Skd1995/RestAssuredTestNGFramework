@@ -4,18 +4,21 @@ import static io.restassured.RestAssured.given;
 import static org.testng.Assert.assertEquals;
 import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.hamcrest.Matchers;
 import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
@@ -202,15 +205,7 @@ public class ApiActionUtil extends BaseTest{
 		return requestSpecification;
 	}
 
-	//	public static void verifyStatusCode(Response response) {
-	//		try {
-	//		assertEquals(String.valueOf(response.getStatusCode()).startsWith("20"), true,
-	//				"value of status code is" + response.getStatusCode());
-	//		}catch (Exception e) {
-	//			e.printStackTrace();
-	//			error("Unable to verify status code");
-	//		}
-	//	}
+
 
 	public static void validateStatusCode(Response response,int status_code) {
 		try {
@@ -551,5 +546,68 @@ public class ApiActionUtil extends BaseTest{
 		}
 		return null;
 	}
+	public  static void addQuerryParam(String querryParamKey,String querryParamValue) {
 
+		try {
+			JSONParser jsonParser = new JSONParser();
+			JSONObject jsonObject = (JSONObject)jsonParser.parse(new FileReader("./src/test/resources/QuerryParams.json"));
+			if(querryParamKey.equals("")) {
+				info("This request does not have Querry Param");
+			}else if(querryParamKey.equals("ids")){
+				requestSpecBuilder.addQueryParam(querryParamKey, querryParamValue);
+
+			}else {
+				String[] queryKey=querryParamKey.split(",");
+				for (int i=0; i<queryKey.length;i++) {
+					requestSpecBuilder.addQueryParam(queryKey[i], jsonObject.get(queryKey[i]));
+
+				}
+
+				info(" Querry Param added to the request");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			error("Unable to add Querry Param");
+			Assert.fail("Unable to add Querry Param");
+		}
+
+	}
+	public  static void addPathParam(String pathParamKey,String pathParamValue) {
+
+		try {
+			if(pathParamKey.equals("")) {
+				info("This request does not have Path Param");
+			}else {
+				requestSpecBuilder.addQueryParam(pathParamKey, pathParamValue);
+				info(" Path Param added to the request");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+			error("Unable to add Path Param");
+			Assert.fail("Unable to add Path Param");
+		}
+
+	}
+	public static void addHeader() {
+		requestSpecBuilder.addHeader("Authorization", "Bearer "+accessToken);
+	}
+	public synchronized static Response get(String endpoint,int status_code,String querryParamKey,String querryParamValue,String pathParamKey,String pathParamValue) {
+		Response response;
+		try {
+			addHeader();
+			addQuerryParam(querryParamKey, querryParamValue);
+			addPathParam(pathParamKey, pathParamValue);
+			requestSpecification= requestSpecBuilder.build();
+			response=given().spec(requestSpecification).when().get(endpoint).then().log().all().extract().response();
+			response.then().assertThat().statusCode(status_code);
+			extentinfo("Get details successfully");
+			info("Get details successfully");
+			return response;
+		} catch (Exception e) {
+			e.printStackTrace();
+			error("Unable to get the details");
+			Assert.fail();
+		}
+		return null;
+	}
 }

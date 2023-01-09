@@ -1,0 +1,7 @@
+{
+  "limit" : 10,
+  "offset" : 0,
+  "market" : "IN",
+  "q" : "August Dairies",
+  "type" : "artist"
+}
