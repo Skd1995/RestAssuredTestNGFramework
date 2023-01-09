@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="1" configfailurepolicy="continue" name="Trello">
+<suite thread-count="1" configfailurepolicy="continue" name="Spotify">
   <listeners>
-    <listener class-name="com.trello.listener.TestListners"/>
+    <listener class-name="com.spotify.listener.TestListners"/>
   </listeners>
   <test thread-count="1" name="API_Test">
     <classes>
-      <class name="com.trello.endtoendscripts.CreateABoardUpdateDelete"/>
+      <class name="com.spotify.Albums.GetAlbum"/>
     </classes>
   </test> <!-- PROJECT_Test1 -->
 </suite> <!-- RestAssured -->
