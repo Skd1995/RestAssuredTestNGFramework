@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.spotify.Market.AvailableMarket">
+      <class name="com.spotify.Categories.SeveralBrowseCategory">
         <methods>
           <include name="setExtentReport"/>
+          <include name="test1" invocation-numbers="0"/>
           <include name="createFiles"/>
-          <include name="test" invocation-numbers="0"/>
           <include name="launchApp"/>
         </methods>
-      </class> <!-- com.spotify.Market.AvailableMarket -->
+      </class> <!-- com.spotify.Categories.SeveralBrowseCategory -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
